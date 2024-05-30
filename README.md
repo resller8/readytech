@@ -1,4 +1,4 @@
-# auto_cypress
+# Cypress automated api testing
 
 This is an end to end api testing
 
